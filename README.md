@@ -5,7 +5,7 @@ All the files are commented in Spanish, the official language in which the cours
 
 M6 - 01- Python Notebook: This file reviews the types of variables and basic operations.
 
-M6 - 02 - Condicionales: In the second file there are exercises of conditionals.
+M6 - 02 - Condicionales: In this file there are some exercises of conditionals.
 
 ## Tuesday
 
