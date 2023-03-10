@@ -18,3 +18,9 @@ M6 - SpaceX - 2- EDA: In this practice we will do some Exploratory Data Analysis
 M6 -04 - Programación Funcional: a brief review of lambda functions to coding with functional style in Python. In addition, examples of using the map and filter function against conventional loops.
 
 M5 - SPACEX2 - 6 - Machine Learning: In this notebook we try to find the best hyperparameters for SVM, KNN classifier, classification trees, and logistic regression. Finding the best performing method using the test data using all the techniques learned during module 5 (M5) of the course.
+
+## Day 4 - Thursday
+
+M6 - 05 - SparkSession Teoría: Introductory Notebook on what is PySpark and how to use it
+
+M6 - 03 - Primer RDD Teoría: Introductory Notebook on what RDDs are, how to create an RDD and how to apply first transformations and actions on it.
