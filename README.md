@@ -21,6 +21,6 @@ M5 - SPACEX2 - 6 - Machine Learning: In this notebook we try to find the best hy
 
 ## Day 4 - Thursday
 
-M6 - 05 - SparkSession Teoría: Introductory Notebook on what is PySpark and how to use it
+M6 - 05 - SparkSession Teoría: Introductory Notebook on what is PySpark and how to use it.
 
 M6 - 03 - Primer RDD Teoría: Introductory Notebook on what RDDs are, how to create an RDD and how to apply first transformations and actions on it.
