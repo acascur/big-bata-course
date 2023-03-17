@@ -26,6 +26,6 @@
 
 ## Day 5 - Friday
 
-*M6 - 07 - transformaciones y Acciones sobre RDDs:* Notebook with firsts manipulations of RDDs
+*M6 - 07 - Transformaciones y Acciones sobre RDDs:* Notebook with firsts manipulations of RDDs
 
 *SpaceX - 4 - EDA with Data Visualization:* continuing with the EDA exercise performed on Tuesday, in this Notebook we performed the SpaceX data visualization.
